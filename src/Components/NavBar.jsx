@@ -8,6 +8,7 @@ function NavBar() {
 	  display: 'flex',
 	  justifyContent: 'flex-end',
 	  alignItems:'center',
+	  
 	};
   
 	const buttonStyle = {	
